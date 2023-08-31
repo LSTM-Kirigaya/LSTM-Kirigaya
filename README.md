@@ -3,8 +3,9 @@
 
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=LSTM-Kirigaya&count_private=true&show_icons=true&theme=tokyonight" />
 
-📧 Email -> zhelonghuang@mail.ustc.edu.cn
-
+<div align="left">
+☎️ Contact zhelonghuang@mail.ustc.edu.cn
+  
 💻 [Personal Website](https://kirigaya.cn/home)
 
 📖 [Zhihu Page](https://www.zhihu.com/people/can-meng-zhong-de-che-xian/posts)
@@ -12,6 +13,7 @@
 📺 [BiliBili Page](https://space.bilibili.com/434469188)
 
 ⚛️ [Digital-IDE document](https://digital-eda.github.io/DIDE-doc-Cn)
+</div>
 
 ---
 
