@@ -24,7 +24,8 @@
 ![](https://img.shields.io/badge/c++-red)
 ![](https://img.shields.io/badge/go-blue)
 ![](https://img.shields.io/badge/java-orange)
-![](https://img.shields.io/badge/java-blue)
+![](https://img.shields.io/badge/typescript-blue)
+![](https://img.shields.io/badge/verilog-purple)
 
 <img width="44%" align ="left" src="self.jpg" />
 
