@@ -17,16 +17,31 @@
 
 ---
 
+
 ### Programming Language
 
-![](https://img.shields.io/badge/python-blue)
-![](https://img.shields.io/badge/javascript-yellow)
-![](https://img.shields.io/badge/c++-red)
-![](https://img.shields.io/badge/go-blue)
-![](https://img.shields.io/badge/java-orange)
-![](https://img.shields.io/badge/typescript-blue)
-![](https://img.shields.io/badge/verilog-purple)
-![](https://img.shields.io/badge/rust-red)
+<div style="display: flex">
+
+<img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/verilog-purple?style=for-the-badge&logo=vhdl&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+
+</div>
+
 
 <img width="44%" align ="left" src="self.jpg" />
 
