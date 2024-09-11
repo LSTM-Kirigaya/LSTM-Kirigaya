@@ -1,7 +1,7 @@
 # ☕ If you cannot be a poet, be the poem. 
 
+<img src="https://picx.zhimg.com/80/v2-7255b8508499b8c940e42f78b08ba0fb_1440w.jpeg" width="100%" style="border-radius: .5em;"/>
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=LSTM-Kirigaya&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
 ☎️ Contact zhelonghuang@mail.ustc.edu.cn
@@ -42,11 +42,15 @@
 
 </div>
 
+<br>
 
-<img width="44%" align ="left" src="self.jpg" />
+<div style="width: 100%; display: flex;">
 
-<img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
+<img height="300px" src="self.jpg" style="border-radius: .5em;" />
 
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
+</div>
 
+<br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSTM-Kirigaya&theme=tokyonight" />
