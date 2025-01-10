@@ -12,7 +12,7 @@
 
 📺 [BiliBili Page](https://space.bilibili.com/434469188)
 
-⚛️ [Digital-IDE document](https://digital-eda.github.io/DIDE-doc-Cn)
+⚛️ [Digital-IDE](https://nci-ai.cn)
 </div>
 
 ---
